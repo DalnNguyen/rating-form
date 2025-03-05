@@ -113,10 +113,10 @@ body{
 }
 @media screen and (max-width: 768px){
     .wrapper{
-        width: 50%;
+        width: 90%;
     }
     .main{
-        width: 80%;
+        width: 100%;
     }
     .end-main{
 
